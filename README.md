@@ -1,4 +1,4 @@
-# StatBuilder 🏀
+# StatBuilder
 
 **StatBuilder** is a personal project for practicing web scraping and building custom NBA stat datasets.
 
