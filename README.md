@@ -1,8 +1,8 @@
 # StatBuilder
 
-**StatBuilder** is a personal project for practicing web scraping and building custom NBA stat datasets.
+A personal project for scraping and compiling custom NBA statistics datasets.
 
 ## Features
-- Scrapes data from sources like Basketball Reference and NBA.com
-- Outputs clean CSVs for personal analysis or ML use
-- Organized by notebooks, scripts, and raw data folders
+- Scrapes data from sources such as [Basketball Reference](https://www.basketball-reference.com/) and [NBA.com](https://www.nba.com/)
+- Outputs clean, structured CSV files for personal analysis or machine learning
+- Organized into separate folders for notebooks, scripts, and raw data
